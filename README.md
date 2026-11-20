@@ -56,6 +56,11 @@
 
 ## تواصل | Contact
 
-لمشروع موقع لشركتك، راسلني عبر GitHub أو افتح Issue في أي مستودع.
+لمشروع موقع أو تطبيق لشركتك، تواصل معي عبر أي من هذه الحسابات:
 
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amralakwaa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amralakwaa)
+[![TikTok](https://img.shields.io/badge/TikTok-@amralakwaa-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@amralakwaa)
+[![Instagram](https://img.shields.io/badge/Instagram-amralakw__aa-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/amralakw_aa/)
+[![Facebook](https://img.shields.io/badge/Facebook-Omar%20Alakwaa-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1FAc3jEAaB/)
