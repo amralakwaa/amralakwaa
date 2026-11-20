@@ -60,6 +60,7 @@
 
 </div>
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B967%20780%20475%20125-25D366?logo=whatsapp&logoColor=white)](https://wa.me/967780475125)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amralakwaa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amralakwaa)
 [![TikTok](https://img.shields.io/badge/TikTok-@amralakwaa-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@amralakwaa)
 [![Instagram](https://img.shields.io/badge/Instagram-amralakw__aa-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/amralakw_aa/)
