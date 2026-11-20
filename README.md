@@ -4,6 +4,8 @@
 
 **مطوّر مواقع Full-Stack** أبني مواقع شركات الخدمات في السعودية: مواقع عربية من اليمين لليسار، مصمّمة للجوال أولاً، ولوحة تحكم يدير منها العميل محتواه، مع سيو محلي يستهدف عملاء المدينة الفعليين.
 
+**خريج تقنية معلومات (IT)**، وأعمل أيضاً في: الذكاء الاصطناعي، والشبكات، وقواعد البيانات، وتحليل البيانات وتنقيبها، وأمن المعلومات والأمن السيبراني.
+
 </div>
 
 ---
@@ -50,7 +52,11 @@
 
 ## التقنيات | Stack
 
-`PHP` · `Laravel` · `Filament` · `Livewire` · `Alpine.js` · `Tailwind CSS` · `MySQL` · `Redis` · `Next.js` · `TypeScript` · `Vite`
+**Web & apps:** `PHP` · `Laravel` · `Filament` · `Livewire` · `Alpine.js` · `Tailwind CSS` · `Next.js` · `React` · `TypeScript` · `NestJS` · `Flutter` · `Vite`
+
+**Data:** `MySQL` · `Redis` · `Prisma` · `SQLite` · Data analysis · Data mining
+
+**Other fields:** AI · Networking · Information security · Cybersecurity
 
 <div dir="rtl">
 
