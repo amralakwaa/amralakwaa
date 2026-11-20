@@ -32,6 +32,7 @@
 | --- | --- | --- |
 | [يمنا](https://github.com/amralakwaa/Yemna) | منصة تواصل اجتماعي: منشورات وقصص ومجتمعات ورسائل فورية | React 19, tRPC, NestJS, Prisma, Socket.IO |
 | [أمانات ومكتبة أسامة](https://github.com/amralakwaa/Alaosama) | مكتبة رقمية عربية بطلبات نشر للمؤلفين | Next.js 16, NestJS 11, TypeORM, MySQL |
+| [نظام إدارة المدرسة الذكي](https://github.com/amralakwaa/smart-school-management) | تطبيق مدرسة للمدير والمعلّم والطالب يعمل بدون إنترنت | Flutter, Firebase, Firestore, SQLite |
 | [Edu Manager](https://github.com/amralakwaa/edu_manager_app) | تطبيق إدارة فصل دراسي يعمل بدون إنترنت عبر شبكة محلية | Flutter, Hive, SQLite, PHP, MySQL |
 | [STS Glass](https://github.com/amralakwaa/STS-Preivew) | واجهة تفاعلية بتصميم الزجاج السائل | Next.js 15, React 19, Framer Motion |
 | [STS Smart Tech Systems](https://github.com/amralakwaa/digitalsts_sa) | منصة شركة أنظمة أمنية ثنائية اللغة | Laravel 10, Tailwind CSS 3 |
